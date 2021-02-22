@@ -10,3 +10,4 @@ Ez a verzió (v1.1) két pályát tartalmaz, a régi utasítások teljes újraí
 A játék korából fakadóan a projektben használt részek / utasítások egy kicsit elavultak, de megpróbáltam megtisztítani, animációt adtam a sprite-nak és a play-gombnak is (ami új), illetve hozzáadtam egy pont rendszert, amely hangot is ad, ha sikerül felszedni a taco-t, illetve resetelődik a pont, ha elrontjuk a kiutat.
 A kezdőképernyőt is egy korábbi, de más szintén ebből az évből származó projektemből másoltam és újítottam fel, ugyan azt a stílust alkalmaztam stb. a hangulat megtartása képp.
 ```
+#### BUGS: A jelenlegi (1.1) - es verzióban a taco a második pályán nem adódik hozzá a pontokhoz, most vettem észre, nemsoká javítom ####
