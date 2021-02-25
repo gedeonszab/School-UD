@@ -6,8 +6,8 @@ Ebben a verzióban egy komoly ráncfelvarrást kapott a program, mindkét pálya
 ### Changelog: ###
  - A pályák új külsőt kaptak
  - Győzelem után kiíratódik a megszerzett pontok száma
- - A karakter új kölsőt kapott
- - A pontok / tacok megszámlálása új formában zajlik
+ - A fő karakter (Mr Gold) új külsőt kapott
+ - A pontok / taco-k megszámlálása új formában zajlik
  - Egyszerűsítve lett a fal érzékelése
 ----
 ### Fish finish 1.1 - 2021/02/21 ###
