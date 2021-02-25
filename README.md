@@ -2,18 +2,18 @@
 University of Debrecen - Scratch projekt
 
 ### Fish finish 2.0 - 2021/02/25 ###
-Ebben a verzióban egy komoly ráncfelvarráson esett át a program, mindkét pálya megújult, és a kód is tisztítva lett, már jelentősen kompaktabb az eredeti verzióhoz képest.
+Ebben a verzióban egy komoly ráncfelvarrást kapott a program, mindkét pálya megújult, és a kód is tisztítva lett, már jelentősen kompaktabb az eredeti verzióhoz képest.
 ### Changelog: ###
  - A pályák új külsőt kaptak
  - Győzelem után kiíratódik a megszerzett pontok száma
  - A karakter új kölsőt kapott
  - A pontok / tacok megszámlálása új formában zajlik
  - Egyszerűsítve lett a fal érzékelése
-
+----
 ### Fish finish 1.1 - 2021/02/21 ###
 ### Az első házi feladat ###
 Ezt a kis játékot még általános iskola 8. osztályban készítettem, most bejelentkezés után találtam rá, 2015-ben találkoztam először a Scratch-el, és akkor nagyon megtetszett.
-#### A játék lényege: Jussunk el a célba, útközben probáljunk meg minél több tacot begyűjteni. ####
+#### A játék lényege: Jussunk el a célba, útközben probáljunk meg minél több tacot begyűjteni, viszont ha a falhoz hozzáérünk, akkor az addigi pontok lenullázódnak! ####
 [![K-perny-k-p-2021-02-22-011521.png](https://i.postimg.cc/zvw5fyGw/K-perny-k-p-2021-02-22-011521.png)](https://postimg.cc/YLSTnqgj)
 ```bash
 Ez a verzió (v1.1) két pályát tartalmaz, a régi utasítások teljes újraírást igényeltek volna, ezért megtartottam mindent - és próbáltam is poénosra is venni az egészet, mint ezt a dokumentációt is.
